@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './App.scss';
-import {pageContents, listData} from '../../data/dataStore';
 import PropTypes from 'prop-types';
 import List from './../List/ListContainer.js';
 

@@ -7,4 +7,4 @@ const mapStateToProps = state => ({
   lists: state.lists,
 });
 
-export default connect(mapStateToProps)(App);
+export default connect(mapStateToProps)(App); 
